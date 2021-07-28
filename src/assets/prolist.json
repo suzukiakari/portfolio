@@ -1,0 +1,7 @@
+{
+    "list":[
+        {"title": "配色アプリ", "img": "color.png", "text":"カラーピッカーなどのライブライやAPIは使用せずにJavaScriptで動的なスタイルを設定し、作成したオリジナルアプリです。", "language":"JavaScript、HTML/CSS", "url":"https://hamorudo.sakura.ne.jp/App/colorApp/color-sheme.html" },
+        {"title":"ショッピングサイト", "img": "shopping.png", "text":"本を参考に作成しましたが、ユーザー目線での便利さを考えてオリジナルで機能を考え作成したアプリです。", "language":"PHP、HTML/CSS", "url":"https://hamorudo.sakura.ne.jp/App/shop/login.php"},
+        {"title":"ポートフォリオ", "img": "portfolio.png", "text":"Googleのクラウドサービスであるfirebaseにデプロイし、公開しています。非同期処理など本を参考に実装しました。", "language":"Angular", "url":"https://portfolio-7ed67.web.app/", "source": "https://github.com/suzukiakari/portfolio"}
+    ]
+}

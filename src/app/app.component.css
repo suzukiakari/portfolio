@@ -1,0 +1,24 @@
+/* ヘッダー・ナビゲーション部分 */
+header {
+    background-color: #EEE2C2;
+    border-top: solid #6A4D32 30px;
+    height: 120px;
+    margin-bottom: 50px;
+}
+.navigate {
+    text-align: center;
+    padding-top: 70px;
+    margin-bottom: 10px;
+}
+nav a { 
+    text-decoration: none; 
+    margin: 0px 40px;
+    padding: 10px 20px
+}
+/* フッター */
+footer {
+    height: 200px;
+    background-color: #EEE2C2;
+    border-bottom: solid #6A4D32 30px;
+    margin-top: 50px;
+}

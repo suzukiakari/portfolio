@@ -1,0 +1,41 @@
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 10px;
+    color: #6A4D32;
+}
+tr th {
+    width: 50px;
+    background-color: #E8A88F;
+}
+tr td {
+    background-color:  #EEE2C2;
+    padding: 0px 20px;
+    width: 500px;
+    text-align: left;
+}
+img {
+    width: 255px;
+    height: 150px;
+    border: solid 1px #CCC;
+    margin-right: 30px;
+}
+.box {
+    margin: 50px 0px 130px 0px;
+}
+.title {
+    border-bottom: solid 2px #E8A88F;
+    padding: 10px 0px;
+}
+.title div{
+    width: 200px;
+    background-color: #E8A88F;
+    padding: 15px 20px;
+    color: white;
+}
+.content {
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
