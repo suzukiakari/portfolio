@@ -1,0 +1,9 @@
+{
+    "list": [
+        {"name":"Java", "icon":"java.png", "level":"★★★★☆", "text":"JavaGoldを取得しています。JSP・サーブレットで簡単なブログサイトなど作成できます。"},
+        {"name":"PHP", "icon":"php.png", "level":"★★★★☆", "text":"簡単なショッピングサイトやブログサイトなどが作成できます。"},
+        {"name":"JavaScript", "icon":"javascript.png", "level":"★★★☆☆", "text":"配色アプリを作成しました。基本は一通り理解しています。"},
+        {"name":"Spring", "icon":"spring.png", "level":"★★★☆☆", "text":"超入門の参考書を学習しました。今後、アプリ作成予定です。"},
+        {"name":"Angular", "icon":"angular.png", "level":"★★★☆☆", "text":"当サイトを作成しました。基本は一通り理解しています。"}
+    ]
+}
